@@ -1,7 +1,7 @@
 import React from 'react';
 import {CardList} from './components/card_list/card_list.component';
 import {SearchBar} from './components/search-bar/search-bar.component';
-import './app.styles.css';
+import './index.styles.css';
 import {Title} from './components/title/title.component';
 
 class App extends React.Component{
